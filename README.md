@@ -170,18 +170,9 @@
 </ol>
 
 <img src="https://i.imgur.com/drTZzIS.png" alt="osTicket logo"/>
+    <li>Done!!!<strong> Thanks for your time! </strong></li>
 
-<h3>Step 10: Finalize and Clean Up</h3>
-<ol>
-  <li>After installation:
-    <ul>
-      <li><strong>Admin URL:</strong> <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a></li>
-      <li><strong>End-User URL:</strong> <a href="http://localhost/osTicket/">http://localhost/osTicket/</a></li>
-    </ul>
-  </li>
-  <li>Cleanup:
-    <ul>
-      <li>Delete the folder: <code>C:\inetpub\wwwroot\osTicket\setup</code>.</li>
+  <img src="https://i.imgur.com/wPmhyH1.png" alt="osTicket logo"/>
       <li>Set permissions for <code>C:\inetpub\wwwroot\osTicket\include\ost-config.php</code> to <strong>Read-only</strong>.</li>
     </ul>
   </li>
