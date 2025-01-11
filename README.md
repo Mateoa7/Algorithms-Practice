@@ -164,16 +164,8 @@
           <li><strong>MySQL Password:</strong> root</li>
         </ul>
       </li>
-      <li>Click <strong>Install Now!</strong></li>
+      <li>Click <strong>Install Now! thanks for your time, by Mateo A</strong></li>
     </ul>
   </li>
 </ol>
 
-<img src="https://i.imgur.com/drTZzIS.png" alt="osTicket logo"/>
-    <li>Done!!!<strong> Thanks for your time! </strong></li>
-
-  <img src="https://i.imgur.com/wPmhyH1.png" alt="osTicket logo"/>
-      <li>Set permissions for <code>C:\inetpub\wwwroot\osTicket\include\ost-config.php</code> to <strong>Read-only</strong>.</li>
-    </ul>
-  </li>
-</ol>
