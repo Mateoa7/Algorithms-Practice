@@ -164,6 +164,7 @@
           <li><strong>MySQL Password:</strong> root</li>
         </ul>
       </li>
+  <img src="https://i.imgur.com/XYfjIiS.png" alt="osTicket logo"/>
       <li>Click <strong>Install Now! thanks for your time, by Mateo A</strong></li>
     </ul>
   </li>
